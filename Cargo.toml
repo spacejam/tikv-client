@@ -1,7 +1,9 @@
 [package]
 name = "tikv-client"
 version = "0.0.0"
-authors = ["Tyler Neely <t@jujit.su>"]
+authors = ["Tyler Neely <t@jujit.su>",
+           "Carl Lerche <me@carllerche.com>",
+           "Armin Ronacher <armin.ronacher@active-4.com>"]
 
 [dependencies]
 log = "0.3.6"
